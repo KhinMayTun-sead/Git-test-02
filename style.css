@@ -1,0 +1,93 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+#wrapper {
+	width: 100%;
+	background: url(../img/main_bg.jpg);
+}
+header {
+	height: 50px;
+	background: #fff;
+}
+.banner {
+	width: 100%;
+	height: 300px;
+	background: gray;
+}
+.box_inner {
+	width: 1000px;
+	margin: 0 auto;
+	padding: 40px 0;
+}
+.box_inner p {
+	margin-bottom: 20px;
+}
+#design01 {
+	width: 100%;
+	background: #fcee21;
+	display: block;
+}
+#design02 {
+	width: 100%;
+	background: url(../img/ylw_bg.png) top center no-repeat, url(../img/pink_bg01.png) bottom repeat-x;
+	background-size: 100%, 52px 10px;
+	padding-top: 116px;
+}
+#design03 {
+	width: 100%;
+	background: #ed1e79;
+	padding-top: 88px;
+}
+#design04 {
+	width: 100%;
+	background: url(../img/pink_bg02.png) top no-repeat;
+	background-size: 100%;
+	padding-top: 88px;
+}
+#design05 .box_head {
+	width: 100%;
+	padding: 30px 0;
+	background: #3fa9f5;
+	text-align: center;
+	color: #fff;
+}
+#design05 .box_content {
+	width: 100%;
+	background: url(../img/blue_bg.png) top no-repeat;
+	background-size: 100%;
+	padding-top: 100px;
+}
+#design06 .box_head {
+	width: 100%;
+	padding: 30px 0;
+	background: #fcee21;
+	text-align: center;
+	color: #fff;
+}
+#design06 .box_content {
+	width: 100%;
+	background: url(../img/ylw_bg02.png) top no-repeat, url(../img/pink_bg03.png) bottom no-repeat;
+	background-size: 100%, 100%;
+	padding-top: 100px;
+}
+#design07 .box_head {
+	width: 100%;
+	padding: 30px 0;
+	background: #ed1e79;
+	text-align: center;
+	color: #fff;
+}
+#design07 .box_content {
+	width: 100%;
+	background: url(../img/3col_bg.jpg) top no-repeat #3fa9f5;
+	background-size: 100% 100%;
+}
+#design08 {
+	width: 100%;
+	background: #fcee21;
+}
+footer {
+	width: 100%;
+	background: #1a1a1a;
+}
